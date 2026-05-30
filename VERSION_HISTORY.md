@@ -7,6 +7,8 @@ This project was originally organized with date-based file names. The files have
 | Original file | New file | Summary |
 | --- | --- | --- |
 | `2025120603.py` | `math_puzzle_solver/magic_diamond_solver.py` | Solves a 13-position equal-sum diamond puzzle using numbers 1 through 13. It uses backtracking, canonical symmetry reduction across rotations/reflections, multiprocessing by center value, and reports the number of distinct solutions for each target sum. |
+| `code.py` | `math_puzzle_solver/magic_diamond_target_sum_solver.py` | Finds example arrangements for a fixed target sum. It uses backtracking, configurable `TARGET_SUM` and `MAX_SOLUTIONS` settings, and prints each matching grid. |
+| `20251205.xlsx` | `math_puzzle_solver/magic_diamond_solution_workbook.xlsx` | Excel workbook for the magic diamond puzzle. It contains a grid-style puzzle layout, line-sum formulas, and supporting calculations for checking candidate arrangements. |
 
 ## Course Material Downloaders
 

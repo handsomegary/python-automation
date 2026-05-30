@@ -8,7 +8,7 @@ A collection of Python automation scripts for course material downloading and pu
   - Crawlers and downloaders for course archive pages.
   - Includes selected-file, all-file, resumable, filtered, and multi-root downloader versions.
 - `math_puzzle_solver/`
-  - A multiprocessing backtracking solver for a 13-position magic diamond puzzle.
+  - Solvers and an Excel workbook for a 13-position magic diamond puzzle.
 
 ## Version History
 
